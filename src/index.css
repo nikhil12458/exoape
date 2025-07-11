@@ -1,5 +1,10 @@
 @import "tailwindcss";
 
+@font-face {
+    font-family: "TWK_Lausanne_300";
+    src: url(../src/fonts/TWKLausanne-300.b6399e7.woff2);
+}
+
 *::-webkit-scrollbar{
     display: none;
 }
